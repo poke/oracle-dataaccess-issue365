@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Managed", "Managed\Managed.csproj", "{40B29632-9760-4A40-9772-11387C4E113D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unmanaged", "Unmanaged\Unmanaged.csproj", "{F64E7245-40E6-4C4E-A109-6141E181C202}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40B29632-9760-4A40-9772-11387C4E113D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40B29632-9760-4A40-9772-11387C4E113D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40B29632-9760-4A40-9772-11387C4E113D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40B29632-9760-4A40-9772-11387C4E113D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F64E7245-40E6-4C4E-A109-6141E181C202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F64E7245-40E6-4C4E-A109-6141E181C202}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F64E7245-40E6-4C4E-A109-6141E181C202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F64E7245-40E6-4C4E-A109-6141E181C202}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
